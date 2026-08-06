@@ -56,7 +56,7 @@ Mail-Merge/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Mail-Merge.git
+git clone https://github.com/Tejass-raj/Python-Mail-Merge-Project.git
 ```
 
 2. Navigate to the project folder
