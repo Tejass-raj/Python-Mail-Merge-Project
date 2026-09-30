@@ -99,19 +99,7 @@ Output/ReadyToSend/
 - Loops
 - Automation
 - Directory Management
-
----
-
-## 📸 Output
-
-Example generated files:
-
-```
-letter_for_Alice.docx
-letter_for_John.docx
-letter_for_Emma.docx
-```
-
+  
 ---
 
 ## 🔮 Future Improvements
